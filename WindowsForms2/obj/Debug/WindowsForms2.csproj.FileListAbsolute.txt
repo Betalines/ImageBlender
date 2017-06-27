@@ -1,0 +1,29 @@
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.pdb
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csprojResolveAssemblyReference.cache
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.Cache
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.exe
+h:\windows7\documents\visual studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.pdb
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.exe
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.pdb
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csprojResolveAssemblyReference.cache
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.Cache
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.pdb
+C:\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Form2.resources
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.exe
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\bin\Debug\WindowsForms2.pdb
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csprojResolveAssemblyReference.cache
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Form2.resources
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.Cache
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.exe
+G:\Kopia plików\Users\BEATA\Documents\Visual Studio 2015\Projects\WindowsForms2\WindowsForms2\obj\Debug\WindowsForms2.pdb
